@@ -1,0 +1,7 @@
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\bin\Debug\LISTA01.exe.config
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\bin\Debug\LISTA01.exe
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\bin\Debug\LISTA01.pdb
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\obj\Debug\LISTA01.csproj.AssemblyReference.cache
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\obj\Debug\LISTA01.csproj.CoreCompileInputs.cache
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\obj\Debug\LISTA01.exe
+C:\Users\douglas.hpferreira\source\repos\LISTA01\LISTA01\obj\Debug\LISTA01.pdb
